@@ -1,8 +1,17 @@
+.header{
+    background-color: orange;
+    height: 100px;
+    width: 100%;
+}
 .header nav a{
-    margin-right: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-left: 20px;
+    font-size: 25px;
     text-decoration: none;
-    color: black;
+    color: green;
+    
 }
 .header nav a:hover{
-    color: goldenrod;
+    color:whitesmoke;
 }
